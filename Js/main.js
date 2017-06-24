@@ -67,6 +67,10 @@ var flipCard = function (cardId) {
 }
 }
 
+var createBoard = function () {
+  for (var i - 0; i < card.length; i++)
+}
+
 
 	flipCard(0);
 	flipCard(2);
